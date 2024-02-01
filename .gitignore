@@ -1,0 +1,36 @@
+# Cake
+tools/*
+
+# KDiff3
+*.orig
+
+# macOS
+*DS_Store
+
+# NuGet
+.nuget/
+packages/
+artifacts/
+
+# Nuke
+.nuke/temp/
+
+# ReSharper
+_ReSharper.*
+*.ExternalAnnotations.xml
+
+# Shouldly/Verify
+*.received.*
+
+# Subversion
+.svn/
+
+# Visual Studio
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userprefs
+*.sln.ide
+*.log

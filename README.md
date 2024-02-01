@@ -1,0 +1,1 @@
+[![NuGet Badge](https://buildstats.info/nuget/Omnicasa.SQLiteExtended)](https://www.nuget.org/packages/Omnicasa.SQLiteExtended/)
