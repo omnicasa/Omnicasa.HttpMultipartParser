@@ -1,0 +1,14 @@
+name: Dev
+on:
+  pull_request:
+    branches:
+      - master
+jobs:
+  publish:
+    name: dev
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build project
+        run: dotnet build -c Release Omnicasa.HttpMultipartParser/Omnicasa.HttpMultipartParser.csproj
