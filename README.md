@@ -1,1 +1,1 @@
-[![NuGet Badge](https://buildstats.info/nuget/Omnicasa.SQLiteExtended)](https://www.nuget.org/packages/Omnicasa.SQLiteExtended/)
+[![NuGet Badge](https://buildstats.info/nuget/Omnicasa.HttpMultipartParser)](https://www.nuget.org/packages/Omnicasa.HttpMultipartParser/)

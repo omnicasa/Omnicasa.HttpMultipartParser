@@ -5,6 +5,12 @@ VisualStudioVersion = 25.0.1706.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.HttpMultipartParser", "Omnicasa.HttpMultipartParser\Omnicasa.HttpMultipartParser.csproj", "{5E8F254E-F89B-425F-BB0A-6569236FB530}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85FF55E9-07B6-4B70-B9AC-6632BFC6681C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		Omnicasa.Apps.ruleset = Omnicasa.Apps.ruleset
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
